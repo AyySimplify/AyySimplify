@@ -1,8 +1,8 @@
 
 ```markdown
 ──────────────────────────────────
-🌐 Name: **Simplify**
-🛠️ Focus: *Scriping & Gaming *
+🌐 Name: Simplify
+🛠️ Focus: Scriping & Gaming 
 
 ---
 
